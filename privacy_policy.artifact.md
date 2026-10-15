@@ -79,5 +79,5 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 ## 8. Contact Us
 If you have any questions, concerns, or suggestions regarding this Privacy Policy or our privacy practices, please contact us at:
 
-- **Developer / Support Email:** support@powerbuttonxml.com *(or your contact email)*
+- **Developer / Support Email:** arvindyadavramrup@gmail.com *(or your contact email)*
 - **App Package Name:** `com.powerbuttonxml`
