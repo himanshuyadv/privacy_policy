@@ -3,7 +3,7 @@
 **Effective Date:** October 14, 2026
 **App Name:** Power Button
 **Package Name:** `com.powerbuttonxml`
-**Developer:** Ansh / Power Button XML
+**Developer:** Himanshu / Power Button XML
 
 ---
 
